@@ -156,7 +156,7 @@ EMAIL_HOST_PASSWORD = 'kwnw lkkf nmfx qboz'
 # VNPAY CONFIG
 # VNPAY_RETURN_URL = 'http://localhost:8000/payment_return'  # get from config
 #for domain deploy
-VNPAY_RETURN_URL = 'https://tutorweb.onrender.com/payment_return'  # get from config
+VNPAY_RETURN_URL = 'https://tutorweb-domaindeploy.onrender.com/payment_return'  # get from config
 VNPAY_PAYMENT_URL = 'https://sandbox.vnpayment.vn/paymentv2/vpcpay.html'  # get from config
 VNPAY_API_URL = 'https://sandbox.vnpayment.vn/merchant_webapi/api/transaction'
 VNPAY_TMN_CODE = '1WYM9Y7G'  # Website ID in VNPAY System, get from config
